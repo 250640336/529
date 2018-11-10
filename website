@@ -1,2 +1,15 @@
 <html>
+<head>
+  <style type="text/css">
+  .cls1{
+    text-alter:center;
+    font-size:5em;
+  }
+  
+  
+  </style>
+</head>
+<body>
+<div class="cls1">欢迎来到529班班级网站</div>
+</body>
 </html>
